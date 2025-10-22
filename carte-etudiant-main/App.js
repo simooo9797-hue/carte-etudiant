@@ -11,10 +11,10 @@ export default function App() {
       <Text style={styles.schoolName}>EMSI MAARIF</Text>
     </View><View style={styles.info}>
         <Text style={styles.label}>
-          Nom : <Text style={styles.value}>DIF</Text>
+          Nom : <Text style={styles.value}>SAIDI</Text>
         </Text>
         <Text style={styles.label}>
-          Prénom : <Text style={styles.value}>AYOUB</Text>
+          Prénom : <Text style={styles.value}>Mohamed</Text>
         </Text>
         <Text style={styles.label}>
           Année universitaire : <Text style={styles.value}>2025 / 2026</Text>
